@@ -1,5 +1,4 @@
-## Hi there 👋
-# My HARD skills
+# 🔥 My HARD skills 🔥
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sklearn,cpp,cs,django,git," />
