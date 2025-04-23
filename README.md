@@ -1,4 +1,10 @@
 ## Hi there 👋
+# My HARD skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sklearn,cpp,cs,django,git," />
+  </a>
+</p>
 
 <!--
 **GermanPikel/GermanPikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
