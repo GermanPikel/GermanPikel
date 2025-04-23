@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻 Hackatons 💻
+# 💻 Hackathon 💻
 - HSE Lyceum ML Hack 2/20
 - Alfa Hack AutoML 2024 35/62
 - HSE x SBER RecSys Hack 21/62
