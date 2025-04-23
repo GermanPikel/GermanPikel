@@ -6,7 +6,7 @@
 </p>
 
 # 🤓 LeetCode 🤓
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+
 
 <!--
 **GermanPikel/GermanPikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
