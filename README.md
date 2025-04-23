@@ -5,6 +5,9 @@
   </a>
 </p>
 
+# 🤓 LeetCode 🤓
+<p> ![](https://leetcard.jacoblin.cool/bepebdepd?animation=false) </p>
+
 <!--
 **GermanPikel/GermanPikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
