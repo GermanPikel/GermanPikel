@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 # 💻 Hackathons 💻
 - HSE Lyceum ML Hack 2/20
-- Alfa Hack AutoML 2024 35/62
+- Alfa Hack AutoML 2024 35/82
 - HSE x SBER RecSys Hack 21/62
