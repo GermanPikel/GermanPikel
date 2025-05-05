@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sklearn,cpp,cs,django,git" />
   </a>
 </p>
-
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 # 🤓 LeetCode 🤓
 ![](https://leetcard.jacoblin.cool/bepebdepd?animation=false)
 <!--
