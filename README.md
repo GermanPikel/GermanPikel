@@ -4,24 +4,12 @@
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sklearn,cpp,cs,django,git" />
   </a>
 </p>
-# dfsdfsf
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 # 🤓 LeetCode 🤓
 ![](https://leetcard.jacoblin.cool/bepebdepd?animation=false)
-<!--
-**GermanPikel/GermanPikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 💻 Hackathons 💻
 - HSE Lyceum ML Hack 2/20
