@@ -4,7 +4,8 @@
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sklearn,cpp,cs,django,git" />
   </a>
 </p>
-
+# dfsdfsf
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 🤓 LeetCode 🤓
 ![](https://leetcard.jacoblin.cool/bepebdepd?animation=false)
 <!--
