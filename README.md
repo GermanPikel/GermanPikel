@@ -16,8 +16,8 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-# 🤓 LeetCode 🤓
-![](https://leetcard.jacoblin.cool/bepebdepd?animation=false)
+<!--# 🤓 LeetCode 🤓
+![](https://leetcard.jacoblin.cool/bepebdepd?animation=false)-->
 
 
 # 💻 Hackathons 💻
